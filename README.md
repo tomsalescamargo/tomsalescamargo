@@ -10,7 +10,7 @@ I build microservices and REST APIs with Java and Spring Boot, focused on authen
   <img src="https://skillicons.dev/icons?i=java,spring,kotlin,maven,postgres,mysql,redis,kafka,rabbitmq,docker,kubernetes,aws,terraform,githubactions,gitlab,linux,git&perline=9" alt="Java, Spring Boot, Kotlin, Maven, PostgreSQL, MySQL, Redis, Apache Kafka, RabbitMQ, Docker, Kubernetes, AWS, Terraform, GitHub Actions, GitLab CI, Linux, Git" />
 </p>
 
-Also: Spring Security · OAuth 2.0 / OpenID Connect · JWT · JUnit 5 · Mockito · Testcontainers · Oracle · SQL Server · Spring AI (LLMs, RAG)
+Also: Spring Security · OAuth 2.0 / OpenID Connect · JWT · JUnit 5 · Mockito · Testcontainers · Oracle · SQL Server · Spring AI
 
 ### Education & certifications
 
